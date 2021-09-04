@@ -5,5 +5,10 @@
     <section>
         <x-main-hero></x-main-hero>
     </section>
-    <x-main-footer></x-main-footer>
+    <section>
+        <x-main-section></x-main-section>
+    </section>
+    <section>
+        <x-main-footer></x-main-footer>
+    </section>
 </x-main-layout>
