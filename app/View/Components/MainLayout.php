@@ -6,6 +6,7 @@ use Illuminate\View\Component;
 
 class MainLayout extends Component
 {
+    
     /**
      * Get the view / contents that represent the component.
      *
